@@ -1,4 +1,7 @@
-Andrah – Automation & Data Analysis Portfolio
+          Andarh 
+          
+Automation & Data Analysis Portfolio
+
 Detail-oriented Accountant and Technology Enthusiast with experience in
 workflow automation, inventory systems, income & expenditure tracking,
 and reporting using no-code/low-code tools.
@@ -10,9 +13,11 @@ and reporting using no-code/low-code tools.
 - Microsoft tools
 - Airtable 
 - SQL (Basic)
-- Data Analysis & Reporting Projects
-- Store Inventory Automation
-**Description:**  
+- Data Analysis & Reporting.
+- 
+       Projects
+1️⃣ Store Inventory Automation
+ Description:  
 Automated purchase, sales, and returns tracking using Google Forms, Google Sheets, and n8n.
 **Features:**
 - Multi-item form submission
@@ -20,38 +25,39 @@ Automated purchase, sales, and returns tracking using Google Forms, Google Sheet
 - Purchase, sales & returns reports
 - Total quantity and amount calculation
 
-📁 Folder: `store-inventory-automation`
+📁 Folder: https://drive.google.com/drive/folders/1VmuHa4zMSbPKQBq0aMVuVgQFuFikmtdN
+
+https://drive.google.com/drive/folders/1YGOQLtxl2Zw1guRGJjcXRGcBGolQa51l
 
 ---
+ 2️⃣ Food Ordering System Automation
 
-### 2️⃣ School Store Income & Expenditure System
-**Description:**  
-End-to-end automation for tracking income and expenses with summary reports.
+   Overview
+This project automates the workflow of taking and managing food orders
+for a school store or small business. It uses Google Forms, Google Sheets, and Google Apps Script 
+to manage orders, update inventory, and generate reports.
 
-**Features:**
-- Event-type based reporting
-- Item-level summaries
-- Daily and monthly totals
+   Features
+- Customers submit food orders via Google Forms
+- Inventory is updated automatically in Google Sheets using Apps Script
+- Daily sales and order summaries are generated
+- Multi-item orders are supported with quantity tracking
+- Automatic notifications or confirmations can be sent via email using Apps Script
 
-📁 Folder: `income-expenditure-automation`
+   Tools Used
+- Google Forms
+- Google Sheets
+- Google Apps Script
+- Excel (optional for reporting)
 
----
+   Sample Use Case
+- Track food orders without manual entry
+- Automatically deduct ordered items from stock
+- Generate end-of-day order summary reports.
+- 📁 folder: https://drive.google.com/drive/folders/1VmuHa4zMSbPKQBq0aMVuVgQFuFikmtdN
 
-### 3️⃣ Google Forms to Excel Automation
-**Description:**  
-Automated form responses into structured Excel reports.
+https://drive.google.com/drive/folders/1YGOQLtxl2Zw1guRGJjcXRGcBGolQa51l
 
-📁 Folder: `forms-to-excel`
-
----
-
-## 📊 Sample Outputs
-- Automated reports
-- Summary dashboards
-- Inventory status sheets
-
----
-
-## 📫 Contact
+   📫 Contact
 - GitHub: https://github.com/your-username
 - LinkedIn: (add later)
