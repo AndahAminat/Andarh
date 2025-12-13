@@ -59,5 +59,5 @@ to manage orders, update inventory, and generate reports.
 https://drive.google.com/drive/folders/1YGOQLtxl2Zw1guRGJjcXRGcBGolQa51l
 
    📫 Contact
-- GitHub: https://github.com/your-username
-- LinkedIn: (add later)
+- GitHub: https://github.com/AndahAminat/Andarh.git
+- LinkedIn: https://www.linkedin.com/in/aminat-oyinoza-andah-3557041a5
