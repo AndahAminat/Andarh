@@ -15,8 +15,63 @@ and reporting using no-code/low-code tools.
 - SQL (Basic)
 - Data Analysis & Reporting.
 - 
-       Projects
-1️⃣ Store Inventory Automation
+       PROJECTS
+
+1️⃣ Restaurant Availability Checker
+Automation Project | API Integration | Workflow Design
+👤 Role & Ownership
+Project Type: Independent / Portfolio Project
+Role: Automation & Workflow Designer
+Tools: n8n, Appify, REST APIs
+I designed and implemented an end-to-end automation workflow that determines whether restaurants in a specific location are open or closed, using scheduled execution, API integration, and data validation logic.
+🎯 Business Problem
+Many food discovery and service platforms struggle to keep restaurant availability accurate due to:
+Frequently changing operating hours
+Manual status updates
+Data duplication and inconsistency
+This leads to poor user experience and unreliable listings.
+💡 Solution Summary
+I built an automated workflow that:
+Pulls restaurant data from an external API
+Evaluates operating hours against real-time conditions
+Automatically updates restaurant availability status
+Maintains clean, duplicate-free records
+The solution is scalable, low-maintenance, and suitable for production environments.
+⚙️ Workflow Architecture (High Level)
+Scheduled Trigger
+Ensures availability checks run automatically at defined intervals.
+API Integration (HTTP Request)
+Fetches restaurant data from an Appify-based application.
+Filtering & Validation Logic
+Confirms correct location and determines open/closed status.
+Append Logic
+Inserts new restaurant records without overwriting existing data.
+Update Logic
+Detects status changes and updates records efficiently.
+🧠 Technical Skills Demonstrated
+Workflow automation & orchestration (n8n)
+API consumption & HTTP request handling
+Conditional logic & time-based evaluation
+Data integrity (append vs update logic)
+Scalable low-code system design
+📊 Impact & Results
+Eliminated manual restaurant availability checks
+Improved data accuracy and consistency
+Enabled real-time open/closed visibility
+Designed a reusable workflow adaptable to other industries (retail, services, events)
+📌 Practical Use Cases
+Restaurant discovery platforms
+Smart city or tourism solutions
+Local service directories
+Time-sensitive listing applications
+🚀 Future Enhancements (Roadmap)
+Real-time notifications (Telegram, Email, WhatsApp)
+Map-based restaurant discovery
+Analytics on peak opening hours
+User-specific alerts and preferences
+
+  
+2️⃣ Store Inventory Automation
  Description:  
 Automated purchase, sales, and returns tracking using Google Forms, Google Sheets, and n8n.
 **Features:**
@@ -30,7 +85,7 @@ Automated purchase, sales, and returns tracking using Google Forms, Google Sheet
 https://drive.google.com/drive/folders/1YGOQLtxl2Zw1guRGJjcXRGcBGolQa51l
 
 ---
- 2️⃣ Food Ordering System Automation
+ 3️⃣ Food Ordering System Automation
 
    Overview
 This project automates the workflow of taking and managing food orders
